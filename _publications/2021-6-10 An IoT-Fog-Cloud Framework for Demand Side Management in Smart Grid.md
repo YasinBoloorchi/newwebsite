@@ -2,7 +2,7 @@
 title: "An IoT-Fog-Cloud Framework for Demand Side Management in Smart Grid"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2021-6-10
 venue: '5th International Conference on Internet of Things and Applications (IoT)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
